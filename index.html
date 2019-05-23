@@ -107,6 +107,83 @@
 				bestehen die auch dem Sinusgemisch ähneln. Alle aufgezeichneten Töne haben viel Störgeräusch. Die Vokale A und I unterscheiden sich 
 				unteranderm auch darin das im I Vokal weniger störgeräusche auftreten was daraus resultiert das der Vokal I aus einem kleinern 
 				Frequenzbereich erzeugt wird.</p>
+				
+				<h3>Octave Code<h3>
+				<p>fa=16000;<br>
+Ta=1/fa;<br>
+frameleange =0.05 %in sec;<br>
+t=[0:Ta:frameleange-Ta];<br>
+t1=[0:16000:frameleange-Ta];<br>
+<br>
+% Wave One<br>
+phi1=0;<br>
+f1=500;<br>
+A1=1;<br>
+erg1 = A1*sin(2*pi*f1*t+phi1);<br>
+AF1=fft(erg1);<br>
+% Wave Two<br>
+phi2=pi/2;<br>
+f2=1000;<br>
+A2=0.5;<br>
+erg2 = A2*sin(2*pi*f2*t+phi2);<br>
+AF2=fft(erg2);<br>
+% Wave Three<br>
+phi3=pi;<br>
+f3=2000;<br>
+A3=0.25;<br>
+erg3 = A3*sin(2*pi*f3*t+phi3);<br>
+AF3=fft(erg3);<br>
+
+Sinusgemisch = erg1+erg2+erg3;<br>
+%figure(1);<br>
+%plot(t,Sinusgemisch);axis([0,0.02,-1,1]);<br>
+xlabel ("Time in ms");<br>
+
+
+FFTgemisch = fft(Sinusgemisch);<br>
+ABSgemisch = abs(FFTgemisch)<br>
+
+%figure(2);<br>
+%plot(ABSgemisch);axis([0,4000]);<br>
+
+
+test3 = abs(AF1);<br>
+
+read = audioread("I.wav");<br>
+readfft=fft(read);<br>
+readabs = abs(readfft);<br>
+figure(3);<br>
+plot(readabs);<br>
+%plot(t,erg1);axis([0,0.02,-1,1]);<br>
+%xlabel ("Time in ms");<br>
+
+
+
+
+<br>
+<br>
+%figure(2);<br>
+%plot(t,erg2);axis([0,0.02,-1,1]);<br>
+%xlabel ("Time in ms");<br>
+
+<br>
+<br>
+
+
+%wavwrite(erg3, 16000, "UE_3.wav");<br>
+%figure(3);<br>
+%plot(t,erg3);axis([0,0.02,-1,1]);<br>
+%xlabel ("Time in ms");<br>
+
+
+
+AF4=fft(test);<br>
+%figure(1);<br>
+%plot(t,test);axis([0,0.02,-1,1]);<br>
+%plot(AF4,t)<br>
+
+%audiowrite("UE_4.wav", test, 16000);<br>
+</p>
 		</div>
 	</body>
 </html>
