@@ -20,7 +20,16 @@
 ### ACROSS THE PACIFIC
 
 ## F
-### BAHAMA MAMA
+### FAY WRAY
+- 3/4 oz Lightly Aged Rum (¾ oz)
+- 3/4 oz Cognac (¾ oz)
+- 3/4 Banana Liqueur (¾ oz)
+- 1/4 ml Rhum Agricole (¼ oz)
+- 3/4 ml Lime Juice (¾ oz)
+- 1/4 ml Demerara Syrup, 2:1 (¼ oz)
+- 1 Small Lime Wedge
+
+[Source](https://www.youtube.com/watch?v=0GDx9bIIh_o&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k)
 
 ## G
 ### ACROSS THE PACIFIC
