@@ -4,7 +4,7 @@
 ## TIKI
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
-## A [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
+## A
 ### ACROSS THE PACIFIC
 
 ## B
@@ -17,16 +17,23 @@
 ### BAHAMA MAMA
 
 ## E
-### ACROSS THE PACIFIC
+### EUREKA PUNCH
+- 1 1/2 oz Lemon juice
+- 1 oz Honey Sirup
+- 1/2 oz Yellow Chartreuse
+- 1 1/2 oz Column still aged rum (4)
+- 1 Dash Angostura bitters
+- 2 oz Ginger ale
 
+[Source]()
 ## F
 ### FAY WRAY
 - 3/4 oz Lightly Aged Rum (¾ oz)
-- 3/4 oz Cognac (¾ oz)
-- 3/4 Banana Liqueur (¾ oz)
-- 1/4 ml Rhum Agricole (¼ oz)
-- 3/4 ml Lime Juice (¾ oz)
-- 1/4 ml Demerara Syrup, 2:1 (¼ oz)
+- 3/4 oz Cognac
+- 3/4 Banana Liqueur
+- 1/4 oz Rhum Agricole
+- 3/4 oz Lime Juice
+- 1/4 oz Demerara Syrup, 2:1
 - 1 Small Lime Wedge
 
 [Source](https://www.youtube.com/watch?v=0GDx9bIIh_o&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k)
@@ -50,7 +57,8 @@
 ### BAHAMA MAMA
 
 ## M
-### ACROSS THE PACIFIC
+### MAI TAI
+
 
 ## N
 ### BAHAMA MAMA
