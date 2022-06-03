@@ -6,9 +6,32 @@
 
 ## A
 ### ACROSS THE PACIFIC
+- 1 oz ml Blended Aged Rum such as Appleton Reserve
+- 1/2 oz Overproof Jamaican Rum preferably Smith & Cross
+- 1/2 oz Averna Amaro
+- 3/4 oz Lime Juice
+- 3/4 oz Orgeat
+
+[Source](https://www.youtube.com/watch?v=VYkxTu9SR3w&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=9)
+
+### ANGOSTURA COLADA
+- 1 1/2 oz Angostura Bitters
+- 1/2 oz Overproof Rum preferably Smith & Cross
+- 2 oz Pineapple Juice
+- 1 1/2 oz Cream of Coconut
+- 1 oz Lime Juice
+
+[Source](https://www.youtube.com/watch?v=0hi420vgrP0&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=10)
 
 ## B
-### BAHAMA MAMA
+### BITTER MAI TAI
+- 1 1/2 oz Campari
+- 3/4 oz Jamaican Rum, preferably Smith & Cross
+- 1/2 oz Curacao
+- 1 oz Lime Juice
+- 3/4 ml Orgeat
+
+[Source](https://www.youtube.com/watch?v=bELeDs1nR90&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=11)
 
 ## C
 ### ACROSS THE PACIFIC
@@ -79,7 +102,15 @@
 ### ACROSS THE PACIFIC
 
 ## T
-### BAHAMA MAMA
+### TIA MIA
+- 1 oz Mezcal
+- 1 oz Jamaican Rum
+- 1/4 oz Dry Curacao 
+- 3/4 oz Lime Juice
+- 1/2 Orgeat
+- 1/2 Simple Syrup
+
+[Source](https://www.youtube.com/watch?v=6g0VeOXhEvo&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=7)
 
 ## U
 ### ACROSS THE PACIFIC
