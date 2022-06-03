@@ -24,6 +24,16 @@
 [Source](https://www.youtube.com/watch?v=0hi420vgrP0&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=10)
 
 ## B
+### BAHAMA MAMA
+- 1/2 oz Dark Rum
+- 1/2 oz Coconut Rum
+- 1/4 oz Overproof Rum
+- 1/4 oz Coffee Liqueur
+- 1/2 oz Lemon Juice
+- 4 oz Pineapple Juice
+
+[Source](https://www.youtube.com/watch?v=c3rKtNTczUc&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=16)
+
 ### BITTER MAI TAI
 - 1 1/2 oz Campari
 - 3/4 oz Jamaican Rum, preferably Smith & Cross
@@ -33,8 +43,34 @@
 
 [Source](https://www.youtube.com/watch?v=bELeDs1nR90&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=11)
 
+### BLUE HAWAII
+- 3/4 oz White Rum
+- 3/4 oz Vodka
+- 3/4 oz Blue Curacao
+- 3 oz Pineapple Juice
+- 1/4 oz Simple Syrup
+- 1/2 oz Lime Juice
+
+[Source](https://www.youtube.com/watch?v=JN-okvQYmRI&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=29)
+
+### BLUE HAWAIIAN
+- 1 1/2 oz White Rum
+- 3/4 oz Blue Curacao
+- 3/4 oz Cream of Coconut
+- 1 1/2 oz Pineapple Juice
+
+[Source](https://www.youtube.com/watch?v=JN-okvQYmRI&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=29)
+
 ## C
-### ACROSS THE PACIFIC
+### CATAMARAN
+- 1 1/2 oz Gin
+- 1/2 oz Navy Strength Gin
+- 1/2 oz Aperol
+- 1 oz Don's Mix
+- 1/2 oz Lemon Juice
+- 1/2 oz Cream of Coconut
+
+[Source](https://www.youtube.com/watch?v=aj4w3Dz0Aeg&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=21)
 
 ## D
 ### BAHAMA MAMA
@@ -74,7 +110,14 @@
 ### BAHAMA MAMA
 
 ## K
-### ACROSS THE PACIFIC
+### KINGSTON SOUNDSYSTEM
+- 1 oz Aged Pot Still Jamaican Rum
+- 1/2 oz White Overproof Rum
+- 1/2 oz Suze
+- 3/4 oz Lime Juice
+- 1/2 Soursop
+
+[Source](https://www.youtube.com/watch?v=0TjW0CXiTL4&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=19)
 
 ## L
 ### BAHAMA MAMA
@@ -93,13 +136,43 @@
 ### BAHAMA MAMA
 
 ## Q
-### ACROSS THE PACIFIC
+### QUARANTINE ORDER
+3 oz Jamaican Rum preferably equal parts Appleton Estate Signature and Rum-Bar Gold
+1 oz Lime Juice
+1 oz Grapefruit Juice
+1/2 oz Cinnamon Syrup
+1/2 oz Passionfruit Syrup
+5 dashes Angostura Bitters
+
+[Source](https://www.youtube.com/watch?v=9WMGx10vLBc&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=14)
 
 ## R
-### BAHAMA MAMA
+### REGGAE STRAWBERRY RUM PUNCH
+- 2 oz Overproof White Rum (2 oz)
+- 2 oz Orange Juice (2 oz)
+- 2 oz Pineapple Juice (2 oz)
+- 1/2 oz Lime Juice (0.5 oz)
+- 1/2 Strawberry Syrup (0.5 oz)
+
+[Source](https://www.youtube.com/watch?v=LDgI5O5nLfU&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=15)
 
 ## S
-### ACROSS THE PACIFIC
+### SUFFERING BAR STEWARD
+- 1 oz Gin
+- 1 oz Brandy / Cognac
+- 1/2 oz Fresh Lime Juice
+- 1/4 oz Demerara Syrup
+- 2 Dashes of Angostura Bitters
+- 4 oz of Ginger Beer
+
+DYING BASTARD COCKTAIL
++ 1 oz Bourbon Whiskey
+
+DEAD BASTARD COCKTAIL
++ 1 oz Bourbon Whiskey
++ 1 oz Rum
+
+[Source](https://www.youtube.com/watch?v=1K5Wm2seVkg&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=30)
 
 ## T
 ### TIA MIA
@@ -125,7 +198,13 @@
 ### BAHAMA MAMA
 
 ## Y
-### ACROSS THE PACIFIC
+### YELLOW BIRD
+- 1 1/2 oz White Rum
+- 1/2 oz Galliano Vanilla Liqueur
+- 1/2 oz Triple Sec
+- 1/2 oz Fresh Lime Juice
+
+[Source](https://www.youtube.com/watch?v=Ai7F1r3NiF4&list=PLSOyd4ZezLocQaheoLyVQ_2vpNOxany4k&index=27)
 
 ## Z
 ### BAHAMA MAMA
